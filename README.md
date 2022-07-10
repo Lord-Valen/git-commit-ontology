@@ -26,8 +26,8 @@ git commit -m ':bulb: `refactor` encapsulate loop execution into own function'
 ## Commit Ontology
 
 | Emoji | Keyword | Meaning | 
-| :---- | :------ | :------ |
-| :bulb: | `refactor`| Changing the *shape* of code without changing it's *computational space* (rearranging, decoupling, decomposing code)| 
+| :---: | :------ | :------ |
+|:bulb:| `refactor`| Changing the *shape* of code without changing it's *computational space* (rearranging, decoupling, decomposing code)| 
 |:brain:| `redesign` | Changing the fundamental approach, architecture, strategy, *computational space* of the program (changing the domain or range of functions, parameterizing encapsulations, switching from static to dynamic design patterns, etc.)|
 |:rocket:| `feat` | Adding code that constitutes new features to the program |
 |:jigsaw:| `add` | Adding code that does not constitute a feature (encapsulations that have not yet been integrated into an imminent feature, or have been integrated into previous features)|
