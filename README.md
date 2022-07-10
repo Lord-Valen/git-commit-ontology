@@ -36,7 +36,7 @@ git commit -m ':bulb: `refactor` encapsulate loop execution into own function'
 |:bug:| `fix` | Fixing bugs |
 |:pencil:| `docs` | Adding/updating documentation|
 |:gem:| `style` | Changing characters (whitespace, names, semi-colons, brackets, etc.) |
-|:technologist:| UI | Changing the user interface (prompts, graphics, audio, client interactions, etc.)|
+|:technologist:| `UI` | Changing the user interface (prompts, graphics, audio, client interactions, etc.)|
 |:lock:| `access` | Changing visiblity and mutability modifiers (const, private, public, protected, replacing attribute references with getters/setters) |
-|:recycle:| `env` | Development related changes (tooling, directory structure, filenames) |
+|:recycle:| `env` | Development environment related changes (tooling, directory structure, filenames) |
 |:arrow_up:| `misc` | Any other change |
