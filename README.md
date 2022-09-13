@@ -39,4 +39,5 @@ git commit -m ':bulb: `refactor` encapsulate loop execution into own function'
 |:technologist:| `UI` | Changing the user interface (prompts, graphics, audio, client interactions, etc.)|
 |:lock:| `access` | Changing visiblity and mutability modifiers (const, private, public, protected, replacing attribute references with getters/setters) |
 |:recycle:| `env` | Development environment related changes (tooling, directory structure, filenames) |
+|:white_check_mark:| `quicksave` | Changes that do not contitute a complete commit type but are still committed for safety or remote accessing |
 |:arrow_up:| `misc` | Any other change |
